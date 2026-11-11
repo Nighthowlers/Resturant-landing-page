@@ -621,6 +621,7 @@ html.dark-mode .footer-section-columns span {
   }
   
   .primary-button {
+    background-color: #04dec1;
     color: #fe9e0d;
     font-size: 1rem;
     padding: 0.8rem 1.5rem;
