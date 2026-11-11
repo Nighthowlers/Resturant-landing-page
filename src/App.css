@@ -392,7 +392,7 @@ html.dark-mode .primary-button:hover {
 .watch-video-button {
   margin-left: 2rem;
   background-color: transparent;
-  outline: none;
+  outline: none; 
   border: none;
   border-radius: 5rem;
   font-size: 1.1rem;
@@ -621,6 +621,7 @@ html.dark-mode .footer-section-columns span {
   }
   
   .primary-button {
+    color: #fe9e0d;
     font-size: 1rem;
     padding: 0.8rem 1.5rem;
   }
